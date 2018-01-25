@@ -1,0 +1,571 @@
+Bug Moves
+虫系招式
+Attack Order - Bug
+攻击顺序：虫
+3d12+14 - Battle - 2
+3d13+14-战斗-2
+Attack - Ranged (10)
+攻击距离-范围（10）
+Effect: 1 Target
+效果：1目标，命中检定中投出18-20视为暴击。
+Attack Order is a Critical Hit on 18-20 
+during Accuracy Check.
+
+Smart - 2d4 - Incentives
+聪明-2d4-奖励
+
+
+
+
+Bug Bite - Bug
+虫咬-虫系
+2d10+8-每回合-2
+攻击距离：近战
+效果：1目标
+如果目标持有一项可使用的消耗道具，虫咬会摧毁道具并且可以使用那项道具。
+2d10+8 - EOT - 2
+
+Attack - Melee
+
+Effect: 1 Target
+
+If the target has a consumable Held 
+Item, Bug Bite destroys the Item and 
+Bug Bite’s user may use the Item’s 
+effect. 
+
+Tough - None - Attention Grabber
+强壮-无-吸引注意
+
+
+
+虫鸣-虫系
+3d12+14-战斗-2
+特殊攻击：距离3米
+效果：无目标，爆发，声波
+虫鸣造成三米范围的音波爆发，如果命中检定为19-20，虫鸣会降低范围内目标1层特防。
+可爱-2d4-激励
+Bug Buzz - Bug
+
+3d12+14 - Battle - 2
+
+Special Attack - Ranged (3)
+
+Effect: No Target, Burst, Sound
+
+Bug Buzz creates a 3-meter Burst. Bug 
+Buzz lowers the target’s Special Defense 
+1 Combat Stage on 19-20 during 
+Accuracy Check.
+
+Cute - 2d4 - Incentives 
+
+
+
+
+防御指令-虫系
+每回合-无
+效果对象：自身
+效果：提升目标特防BUFF和防御BUFF一层。
+聪明-无-准备
+Defend Order - Bug
+
+EOT - None
+
+Effect - Self
+
+Effect: No Target
+
+Raise the user’s Defense 1 Combat 
+Stage and raise the user’s Special 
+Defense 1 Combat Stage. 
+
+Smart - None - Get Ready! 
+
+
+
+
+终结针刺—虫系
+1d10+4-随意-2
+攻击范围：近战
+效果目标：1目标
+如果使用者使用针刺将目标的血量降低到0以下，使用者获得两层攻击加成。
+聪明-无-准备
+Fell Stinger - Bug
+
+1d10+4 - At-Will - 2
+
+Attack - Melee
+
+Effect: 1 Target
+
+If the user lowers a target to 0 HP or less 
+while using Fell Stinger, raise the user’s 
+Attack 2 Combat Stages. 
+
+Smart - None - Get Ready! 
+
+连切-虫系
+1d4-随意-3
+范围：近战
+效果：1目标
+如果连切成功击中同一目标
+第二次攻击造成1d12+6
+第三次2d12+12
+第四次3d12+18
+第五次4d12+24
+这之后所有的攻击都与第五次攻击的伤害一样
+帅气-2d4-可靠
+Fury Cutter - Bug
+
+1d4 - At-Will - 3
+
+Attack - Melee
+
+Effect: 1 Target
+
+If Fury Cutter is used successfully 
+and consecutively on the same target, 
+use 1d12+6 on the second hit instead, 
+2d12+12 on the third hit instead, 
+3d12+18 on the fourth hit instead 
+and 4d12+24 on the fifth hit and any 
+successful hits following the fifth hit 
+instead.
+
+Cool - 2d4 - Reliable
+
+
+
+回复治疗
+过载-无
+效果：自身
+使用者恢复最大HP一半的HP。
+聪明-无-光彩夺目
+
+Heal Order - Bug
+
+Center - None
+
+Effect - Self
+
+Effect: No Target
+
+The user regains HP equal to half of its 
+full HP.
+
+Smart - None - Reflective Appeal
+
+
+
+
+缠身-虫系
+战斗-2
+效果：3米距离
+1目标获得寄生外套，被寄生的精灵在接下来的5回合内每回合失去1/8的最大HP。该效果不会被弱点，抗性，状态所影响。被感染精灵视为被禁锢并且无法远离使用者三米以外。
+聪明-无-引人注目
+Infestation - Bug
+
+Battle - 2
+
+Effect - Ranged (3)
+
+Effect: 1 Target
+
+The target gains the Coat, Infested. 
+Infested Pokemon lose 1/8th of their 
+full HP at the beginning of each of 
+their turns for 5 rounds. Do not apply 
+weakness, resistance or stats to the lost 
+HP. Infested Pokemon are Trapped and 
+cannot move more than 3 meters from 
+the user.
+
+Smart - None - Torrential Appeal
+
+
+
+
+
+
+Move List
+
+
+
+吸血-虫系
+1d6+1-每回合-2
+攻击范围：近战
+效果：1目标
+在目标受到伤害之后，使用者恢复造成伤害一半的HP。
+聪明-1d4-华丽表演
+Leech Life - Bug
+
+1d6+1 - EOT - 2
+
+Attack - Melee
+
+Effect: 1 Target
+
+After the target takes damage, the user 
+gains HP equal to half of the damage 
+they dealt to the target.
+
+Smart - 1d4 - Good Show! 
+
+
+
+
+百万角击-虫系
+5d12+18-战斗-5
+攻击范围：近战
+效果：1目标，推挤
+目标会被推离3米，目标如果被推倒阻挡地形上会受到额外的1d6伤害。如果目标撞到另外一个合法目标则双方都受到1d6.
+帅气-2d4-圆滚滚
+Megahorn - Bug
+
+5d12+18 - Battle - 5
+
+Attack - Melee
+
+Effect: 1 Target, Push
+
+The target is Pushed 3-meters. The target 
+takes an additional 1d6 if it is Pushed 
+into Blocking Terrain. If the target 
+is pushed into another Legal Target, 
+instead, both take 1d6.
+
+Cool - 2d4 - Round Ender 
+
+
+
+导弹针-虫系
+1d6+1-每回合-4
+攻击范围：10米远程
+效果：每次1目标，散弹
+导弹针最多可以攻击5次，一旦攻击没有命中，该回合无法再进行导弹针攻击。
+帅气-2d4-可靠
+
+Pin Missile - Bug
+
+1d6+1 - EOT - 4
+
+Attack - Ranged (10)
+
+Effect: 1 Target, Scatter
+
+Pin Missile can hit up to 5 times. Once 
+the user misses, they cannot attempt to 
+make another Pin Missile attack on that 
+turn. 
+
+Cool - 2d4 - Reliable 
+
+
+
+
+粉尘-虫系
+每回合-2
+攻击范围：5米远程
+效果:1目标，外套
+目标覆盖一层粉末外套，如果目标使用火系招式，外套被摧毁并使其受到1/4最大生命值的伤害。
+聪明-2d4-干扰者
+Powder - Bug
+
+EOT - 2
+
+Effect - Ranged (5)
+
+Effect: 1 Target, Coat
+
+The target receives a Powder Coat. If the 
+target uses a Fire-Type Move, the Coat 
+is destroyed and they lose 1/4th of their 
+max HP.
+
+Smart - 2d4 - Scrambler 
+
+
+
+
+蝶舞-虫系
+每回合-无
+效果：自身
+提升使用者一层特攻，特防以及速度。
+帅气-无-准备
+Quiver Dance - Bug
+
+EOT - None
+
+Effect - Self
+
+Effect: No Target
+
+Raise the user’s Special Attack 1 
+Combat Stage, raise the user’s Special 
+Defense 1 Combat Stage and raise the 
+user’s Speed 1 Combat Stage.
+
+Cool - None - Get Ready! 
+
+
+
+
+愤怒粉-虫系
+过载-无
+攻击范围：5米远程
+效果：射线，拦截
+愤怒粉造成一米宽的射线，所有范围内的目标只能攻击使用者直到使用者昏迷或者被换走。该效果持续一轮
+聪明-2d4-干扰者
+Rage Powder - Bug
+
+Center - None
+
+Effect - Ranged (5)
+
+Effect: No Target, Column, Intercept
+
+Rage Powder creates a Column 1 meter 
+wide. All legal targets may only target 
+the user when using a Move until the 
+user is knocked out or switched out. This 
+Effect lasts for one round of combat.
+
+Smart - 2d4 - Scrambler 
+
+
+
+信号光线——虫系
+3d10+12-每回合-2
+特殊攻击：8米远程
+效果:1目标，射线
+信号光纤创造一米宽的射线，如果对范围内的目标的命中检定为19-20则使目标困惑。
+美丽-无-激励
+
+Signal Beam - Bug
+
+3d10+12 - EOT - 2
+
+Special Attack - Ranged (8)
+
+Effect: 1 Target, Column
+
+Signal Beam creates a Column 1 meter 
+wide. Signal Beam confuses the target 
+and any Legal Targets on 19-20 during 
+Accuracy Check.
+
+Beauty - None - Incentives 
+
+
+
+
+银色旋风-虫系
+2d10+8-战斗-2
+特殊攻击：15米远程
+效果：1目标，射线，灵魂爆发
+银色旋风造成2米宽的射线，如果命中检定为11-20，使用者所有的状态获得一层加成，如果检定为16-20，所有范围内的盟友所有状态获得一层加成并且不会被银色旋风所伤害。
+美丽-2d4-激励
+Silver Wind - Bug
+
+2d10+8 - Battle - 2
+
+Special Attack - Ranged (15)
+
+Effect: 1 Target, Column, Spirit Surge
+
+Silver Wind creates a Column that 
+is 2-meters wide. If you rolled 11-20 
+during Accuracy Check for Silver Wind, 
+the user has each of its stats raised 1 
+Combat Stage. If you rolled 16-20 on the 
+Accuracy Roll, all allies in the Column 
+also have each of their stats raised 1 
+Combat Stage and are not damaged by 
+Silver Wind.
+
+Beauty - 2d4 - Incentives 
+
+
+
+
+
+
+
+Spider Web - Bug
+
+Center - None
+
+Effect - Ranged (5)
+
+Effect: 1 Target, Trap
+
+Spider Web cannot miss.
+
+Smart - 2d4 - Hold That Thought 
+
+
+
+
+
+*Grants: Threaded
+
+Steamroller - Bug
+
+3d8+10 - EOT - 2
+
+Attack - Melee
+
+Effect: 1 Target, Pass
+
+Steamroller Flinches the target on 15-20 
+during Accuracy Check. If the target is 
+Small, Steamroller deals an additional 
+1d10.
+
+Tough - 3d4 - No Effect 
+
+
+
+
+
+Sticky Web - Bug
+
+EOT - None
+
+Effect - Ranged (6)
+
+Effect: No Target, Hazard
+
+Set 10 square meters of Sticky Web, 
+all 10 meters must be adjacent with at 
+least one other space of Sticky Web 
+next to each other. Sticky Web cause all 
+foes to have their Speed Combat Stage 
+lowered 1 when moving onto or over 
+the occupied spaces with an Overland 
+Capability. A foe can only lose 1 Combat 
+Stage per turn this way.
+
+Smart - 2d4 - Hold That Thought 
+
+
+
+
+
+*Grants: Threaded
+
+String Shot - Bug
+
+At-Will - 3
+
+Effect - Ranged (6)
+
+Effect: 1 Target, Column
+
+String Shot creates a Column 2-meters 
+wide. All Legal Targets within the 
+Column lower their Speed 1 Combat 
+Stage. If a target is hit by String Shot 5 
+times within 5 rounds of combat, they 
+are Trapped. If a target’s Speed Combat 
+Stage has already been lowered 6 times, 
+String Shot Traps them.
+
+Smart - 2d4 - Excitement 
+
+
+
+
+
+*Grants: Threaded
+
+Struggle Bug - Bug
+
+1d10+4 - EOT - 2
+
+Special Attack - Ranged (3)
+
+Effect: 1 Target, Column
+
+Struggle Bug creates a Column 1 meter 
+wide. Struggle Bug lowers all Legal 
+Targets Special Attack 1 Combat Stage.
+
+Smart - 2d4 - Excitement
+
+
+
+
+
+Tail Glow - Bug
+
+Battle - None
+
+Effect - Self
+
+Effect: No Target
+
+Raise the user’s Special Attack 3 
+Combat Stages.
+
+Beauty - None - Get Ready!
+
+
+
+
+
+*Grants: Glow
+
+Twineedle - Bug
+
+1d8+3 - EOT - 3
+
+Attack - Melee
+
+Effect: 1 Target, Scatter
+
+Twineedle can hit up to 2 times. If 
+Twineedle misses its first target, you 
+may still use it a second time. If you 
+rolled an 18-20 on either Accuracy 
+Check, the target is Poisoned.
+
+Cool - 2d4 - Reliable 
+
+
+
+
+
+U-Turn - Bug
+
+3d8+10 - Battle - 2
+
+Attack - Melee
+
+Effect: 1 Target, Dash
+
+If U-Turn successfully hits its target, the 
+user deals damage and then immediately 
+is returned to its Poke Ball in the same 
+turn. A New Pokemon may immediately 
+be sent out.
+
+Cute - None - Inversed Appeal 
+
+
+
+
+
+
+
+X-Scissor - Bug
+
+3d10+12 - EOT - 2
+
+Attack - Melee
+
+Effect: 1 Target, Dash
+
+Beauty - 2d4 - Round Starter
+
